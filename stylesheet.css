@@ -1,0 +1,57 @@
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+p {
+  color: purple;
+}
+body {
+  background-color: cornsilk
+}
+ a:link {
+   color: green;
+ }
+p {
+   padding: 25px 50px;
+ }
+h1 {
+    font-family:Arial;
+  }
+h2 {
+    font-family:Arial;
+  }
+h3 {
+    font-family:Arial;
+  }
+h4 {
+  font-family: serif;
+}
+h5 {
+  font-family: serif;
+}
+section.solid {
+    border-style: solid;
+  }
+footer {
+    text-align: left;
+  }
+li {
+  text-decoration: underline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 50px;
+}
+p {
+  font-family: Arial
+}
+section.solid {
+  outline-style: solid;
+}
+section {
+  font-family: sans-serif;
+}
